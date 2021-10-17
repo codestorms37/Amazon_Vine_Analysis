@@ -70,7 +70,7 @@
 
 - How many Vine reviews and non-Vine reviews were there?
   - There where a total of **6,908,554** reviews in the database
-  - Without any filter **99.58%** of all reviews are unpaid
+  - Without any filter **99.48%** of all reviews are unpaid
   - ![paid_vs_unpaid_reviews](./resources/images/paid_vs_unpaid_reviews_1.png)
   - From this universe of **6,908,554** reviews:
     - Only **96,163** had at least 20 votes (highly voted reviews)

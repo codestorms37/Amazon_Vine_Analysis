@@ -82,11 +82,11 @@
   - From the voted and helpful reviews **35,949** where unpaid (not from vine), and **783** were paid (from vine)
   - ![five_stars_reviews](./resources/images/five_stars_reviews.png)
 - What percentage of Vine reviews were 5 stars?
-  - 44.11% of Vine reviews were 5 stars (783/1,775)
+  - **44.11%** of Vine reviews were 5 stars (783/1,775)
 - What percentage of non-Vine reviews were 5 stars?
-  - 46.45% fon non-Vine reviews were 5 stars (35,949/77,385)
+  - **46.45%** fon non-Vine reviews were 5 stars (35,949/77,385)
 
 ## Summary
 
 - The percentage of review that came from the Vine program (44.11%) is lower that the non-paid reviews (46.45%), this signals that Vine reviewers are more acid on its reviews that the general public.
-- A Two-Sample t-test Analysis could be useful to give statistical support to this observation.
+- A **Two-Sample t-test** Analysis could be useful to give statistical support to this observation.
